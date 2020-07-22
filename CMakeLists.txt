@@ -6,14 +6,10 @@ set(SOURCE_FILES
 	"imgui_demo.cpp"
 	"imgui_draw.cpp"
 	"imgui_widgets.cpp"
-	"examples/imgui_impl_opengl3.cpp"
-	"examples/imgui_impl_glfw.cpp"
 )
 set(HEADER_FILES 
 	"imconfig.h"
 	"imgui.h"
-	"examples/imgui_impl_opengl3.h"
-	"examples/imgui_impl_glfw.h"
 	"imgui_internal.h"
 	"imstb_rectpack.h"
 	"imstb_textedit.h"
